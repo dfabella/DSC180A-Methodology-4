@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Daphne Fabella
-dfabella@ucsd.edu
+Daphne Fabella and Terho Koivisto
